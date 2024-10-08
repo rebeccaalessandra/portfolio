@@ -1,0 +1,29 @@
+body {
+
+    background-color: rgb(248, 239, 248);
+    color: rgb(43, 7, 77);
+    font-family:'Times New Roman', Times, serif;
+
+} 
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+a {
+    color: rgb(9, 19, 73);
+    direction: none;
+
+}
+img {
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+    
+    
+}
+.center {
+    text-align: center;
+}
